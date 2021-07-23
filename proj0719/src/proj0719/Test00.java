@@ -3,6 +3,7 @@ package proj0719;
 import java.util.Scanner;
 
 public class Test00 {
+	//테스트입니다.
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int[][] arr1 = new int[2][4];
